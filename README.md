@@ -1,2 +1,3 @@
 # SpaceExplorer
-Parallel Programming project using Producer Consumer paradigm
+Java Program -> Producer Consumer paradigm(Parallel Programming)
+
